@@ -1,6 +1,5 @@
 console.log("atemptting to testing...")
 setTimeout(() => {
- console.log("testing started in 3 sec") 
+    console.log("test completed")
 }, 3000);
-console.log("test completed")
-
+console.log("testing completed in 3 sec")
